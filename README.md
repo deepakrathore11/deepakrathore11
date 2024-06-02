@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/deepak-rathore-519993195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-rathore-519993195/" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_rathore_0062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_rathore_0062" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepakrathore11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakrathore11" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me/1230235884268425337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me/1230235884268425337" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/deepak#1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/deepak#1234" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
